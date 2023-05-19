@@ -4515,5 +4515,20 @@ module.exports = [
       "MongoDB",
       "Firebase"
     ],
-  }
+  },
+{
+    name: "Bas van Dinther",
+    description: "Full-stack developer writing about my favourite tech stack.",
+    url: "https://baspa.dev",
+    twitter: "@baspa_dev",
+    tags: [
+      "PHP",
+      "Laravel",
+      "React",
+      "Open source",
+      "Vue",
+      "JavaScript",
+      "SaaS
+    ],
+  },
 ];
